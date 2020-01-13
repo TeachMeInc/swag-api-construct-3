@@ -1,0 +1,7 @@
+1. Open "HTML5" folder
+2. Edit "data.json" files and search for "YOUR GAME ID HERE"
+3. Add your id inside "" symbols and save it
+4. Upload HTML5 folder to your hosting
+5. Login to your addicting games account and run the game link (Example: https://website.com/HTML5)
+
+P.S: Always use HTTPS instead HTTP

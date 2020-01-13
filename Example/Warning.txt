@@ -1,0 +1,4 @@
+Dear C3 Developer,
+
+To run the example you need to use nwjs or export and upload the files to your hosting.
+Preview directly from Construct 3 or remote preview not working.
