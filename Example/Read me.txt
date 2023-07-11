@@ -1,12 +1,12 @@
 Dear C3 Developer,
 
-This example created by Kyriakos Farris (OdiusFly Studio).
-Saved with construct 3 r181 (Beta).
+This example created by Kyriakos Farris (Odiusfly Studio).
+Saved with construct 3 r349.
 
-If you have any questions or found any bugs don't hesitate to contact me: odiusfly@hotmail.com
+If you have any questions or found any bugs don't hesitate to contact me: contact@odiusfly.com
 
 Thanks in advance,
 Kyriakos Farris
 https://odiusfly.com
 
-P.S: Install "Addicting Games plugin before run this example.
+P.S: Install "Addicting_Games.c3addon" plugin before run this example.

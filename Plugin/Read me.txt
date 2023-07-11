@@ -1,9 +1,9 @@
-Dear C2 Develoer,
+Dear C3 Develoer,
 
-This plugin created by Kyriakos Farris (OdiusFly Studio) and modified by Rhys Jones.
-To install it, open construct 3 -> View -> Addon manager. Press "Install new addon..." button and select "Addicting Games.c3addon" file. Restart construct 3 and done.
+This plugin created by Kyriakos Farris (Odiusfly Studio) and modified by Rhys Jones.
+To install it, open construct 3 -> View -> Addon manager. Press "Install new addon..." button and select "Addicting_Games.c3addon" file. Restart construct 3 and done.
 
-If you have any questions or found any bugs don't hesitate to contact me: odiusfly@hotmail.com
+If you have any questions or found any bugs don't hesitate to contact me: contact@odiusfly.com
 
 Thanks in advance,
 Kyriakos Farris
